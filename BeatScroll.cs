@@ -21,10 +21,7 @@ public class BeatScroll : MonoBehaviour
         //Check Start!
         if (!Started)
         {
-            /*if (Input.anyKeyDown)
-            {
-                Started = true;
-            }*/
+            //Don't do anything
         }
         else
         {
